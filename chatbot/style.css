@@ -1,0 +1,20 @@
+*{
+    margin: 0;padding: 0;box-sizing: border-box;font-family: 'Alice', serif;
+}
+
+.outgoing{
+    display: flex;
+    align-items: center;
+    justify-content: end;
+    margin-top: 12px;
+
+}
+
+.userMessegeBox{
+    background-color: #4F46E5;
+    padding: 12px;
+    border-radius: 20px;
+    min-width:64px;
+    color: #fff;
+    margin-right: 18px;
+}
